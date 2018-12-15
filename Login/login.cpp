@@ -8,6 +8,7 @@ using namespace std;
 #define TAB 9
 #define BKSP 8
 #define SPACE 32
+/** The user's emial and password are private*/
 class user{
     private:
         string email;
